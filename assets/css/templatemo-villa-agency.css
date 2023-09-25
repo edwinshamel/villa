@@ -1337,10 +1337,6 @@ Footer Style
 --------------------------------------------- 
 */
 
-footer.footer-no-gap {
-  margin-top: 0px;
-}
-
 footer {
   margin-top: 1.2rem;
   background-color: #1e1e1e;
@@ -1349,23 +1345,11 @@ footer {
 
 footer p {
   text-align: center;
-  line-height: 100px;
+  padding: 30px 0px;
   color: #fff;
-  font-size: 16px;
+  font-size: 1.1rem;
   font-weight: 400;
 }
-
-footer p a {
-  color: #fff;
-  transition: all .3s;
-  position: relative;
-  z-index: 3;
-}
-
-footer p a:hover {
-  opacity: 0.75;
-}
-
 
 /* 
 ---------------------------------------------
