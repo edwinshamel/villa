@@ -771,11 +771,11 @@ Banner Style
 }
 
 .main-banner .item h2 {
-  font-size: 62px;
+  font-size: 3rem;
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
-  line-height: 72px;
+  line-height: 3rem;
   width: 50%;
   margin-bottom: 0px;
 }
