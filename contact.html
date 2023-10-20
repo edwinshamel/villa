@@ -131,7 +131,7 @@
                 <fieldset>
                   <label for="email">Correo</label>
                   <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Tu Correo..."
-                    required="">
+                    required="" autocomplete="on">
                 </fieldset>
               </div>
               <div class="col-lg-12">
@@ -148,7 +148,7 @@
               </div>
               <div class="col-lg-12">
                 <fieldset>
-                  <button type="submit" id="form-submit" class="orange-button">Enviar</button>
+                  <button id="form-submit" class="btn btn-success" disabled>Enviar</button>
                 </fieldset>
               </div>
             </div>
@@ -178,6 +178,7 @@
 
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
+  <script src="assets/js/mail.js"></script>
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/js/isotope.min.js"></script>
