@@ -744,15 +744,15 @@ Banner Style
 
 
 .main-banner .item-1 {
-  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url(../img/banner-01.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url(../img/banner/banner-01_1_11zon.jpg);
 }
 
 .main-banner .item-2 {
-  background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url(../img/banner-02.jpg);
+  background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url(../img/banner/banner-02_3_11zon.jpg);
 }
 
 .main-banner .item-3 {
-  background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url(../img/banner-03.jpg);
+  background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.5)), url(../img/banner/banner-03_11zon.jpg);
 }
 
 .main-banner .item span.category {
@@ -1171,7 +1171,7 @@ Contact Style
 */
 
 .contact {
-  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.2)), url(../img/Featured.JPG);
+  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.4)), url(../img/banner/Featured_11zon.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1308,7 +1308,7 @@ Page Header Style
 */
 
 .page-heading {
-  background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.7)), url(../img/contact.jpg);
+  background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.7)), url(../img/contact_1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
