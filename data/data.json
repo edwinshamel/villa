@@ -1,0 +1,146 @@
+[
+    {
+        "nombre": "Villa Presidencial",
+        "precio_original": "$590",
+        "precio_descuento": "$450",
+        "capacidad": "11-15",
+        "habitaciones": 6,
+        "banos": 6.5,
+        "cocina": "Completa",
+        "piscina_jacuzzi": "Privados",
+        "tipo": "Luxury"
+    },
+    {
+        "nombre": "Villa Neblinas 4",
+        "precio_original": "$160",
+        "precio_descuento": "$125",
+        "capacidad": 6,
+        "habitaciones": 2,
+        "banos": 2,
+        "cocina": "Completa",
+        "piscinas_compartidas": 2,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    },
+    {
+        "nombre": "Villa coqueta",
+        "precio_original": "$95",
+        "precio_descuento": "$60",
+        "capacidad": 2,
+        "habitaciones": 1,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 2,
+        "tipo": "Personal",
+        "rio": 1
+    },
+    {
+        "nombre": "Villa Neblinas 1",
+        "precio_original": "$140",
+        "precio_descuento": "$95",
+        "capacidad": 4,
+        "habitaciones": 2,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 1,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    },
+    {
+        "nombre": "Villa Neblinas 2",
+        "precio_original": "$140",
+        "precio_descuento": "$95",
+        "capacidad": 4,
+        "habitaciones": 2,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 1,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    },
+    {
+        "nombre": "Villa Neblinas 3",
+        "precio_original": "$140",
+        "precio_descuento": "$95",
+        "capacidad": 4,
+        "habitaciones": 2,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 1,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    }
+]
+[
+    {
+        "nombre": "Villa Presidencial",
+        "precio_original": "$590",
+        "precio_descuento": "$450",
+        "capacidad": "11-15",
+        "habitaciones": 6,
+        "banos": 6.5,
+        "cocina": "Completa",
+        "piscina_jacuzzi": "Privados",
+        "tipo": "Luxury"
+    },
+    {
+        "nombre": "Villa Neblinas 4",
+        "precio_original": "$160",
+        "precio_descuento": "$125",
+        "capacidad": 6,
+        "habitaciones": 2,
+        "banos": 2,
+        "cocina": "Completa",
+        "piscinas_compartidas": 2,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    },
+    {
+        "nombre": "Villa coqueta",
+        "precio_original": "$95",
+        "precio_descuento": "$60",
+        "capacidad": 2,
+        "habitaciones": 1,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 2,
+        "tipo": "Personal",
+        "rio": 1
+    },
+    {
+        "nombre": "Villa Neblinas 1",
+        "precio_original": "$140",
+        "precio_descuento": "$95",
+        "capacidad": 4,
+        "habitaciones": 2,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 1,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    },
+    {
+        "nombre": "Villa Neblinas 2",
+        "precio_original": "$140",
+        "precio_descuento": "$95",
+        "capacidad": 4,
+        "habitaciones": 2,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 1,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    },
+    {
+        "nombre": "Villa Neblinas 3",
+        "precio_original": "$140",
+        "precio_descuento": "$95",
+        "capacidad": 4,
+        "habitaciones": 2,
+        "banos": 1,
+        "cocina": "Completa",
+        "piscinas_compartidas": 1,
+        "tipo": "Villa",
+        "piscina_natural": 1
+    }
+]
